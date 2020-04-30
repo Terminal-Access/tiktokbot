@@ -1,4 +1,4 @@
-<img style="float: right; width: 100px; height: 100px;" src="https://raw.githubusercontent.com/tiktok-bot/tiktokbot/master/ttbot-logo.png">
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/tiktok-bot/tiktokbot/master/ttbot-logo.png">
 
 # tiktokbot
 
