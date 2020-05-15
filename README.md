@@ -6,7 +6,7 @@ Welcome to TikTok Bot! This is our official repository.
 
 ## TikTok Bot is __**NOT**__ open source
 
-# Donate and support TikTok Bot's Development
-<a target="_blank" href="https://donorbox.org/tiktokbot?default_interval=o"><img src="https://d1iczxrky3cnb2.cloudfront.net/button-medium-blue.png" /></a>
+# Visit our website for more information
+[tiktokbot.tech](https://tiktokbot.tech)
 
 # Questions or comments? Open an issue!
