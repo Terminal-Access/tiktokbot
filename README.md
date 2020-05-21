@@ -10,3 +10,9 @@ Welcome to TikTok Bot! This is our official repository.
 [tiktokbot.tech](https://tiktokbot.tech)
 
 # Questions or comments? Open an issue!
+You can also join our [support server](http://tiktokbot.tech/support) and contact us there.
+* * * *
+  <p align="center" style="border-left: 0;">
+    <a href="https://top.gg/bot/699844962057060393"><img src="https://top.gg/api/widget/699844962057060393.svg"></a>
+    <a href="https://botsfordiscord.com/bots/699844962057060393"><img src="https://botsfordiscord.com/api/bot/699844962057060393/widget"></a>
+  </p>
