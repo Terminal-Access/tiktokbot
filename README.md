@@ -15,4 +15,5 @@ You can also join our [support server](http://tiktokbot.tech/support) and contac
   <p align="center" style="border-left: 0;">
     <a href="https://top.gg/bot/699844962057060393"><img src="https://top.gg/api/widget/699844962057060393.svg"></a>
     <a href="https://botsfordiscord.com/bots/699844962057060393"><img src="https://botsfordiscord.com/api/bot/699844962057060393/widget"></a>
+    <a href="https://discord.boats/bot/699844962057060393"><img src="https://discord.boats/api/widget/699844962057060393"></a>
   </p>
